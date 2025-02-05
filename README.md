@@ -9,6 +9,11 @@ source myenv/bin/activate
 pip install -r requirements.txt
 ```
 
+If you are adding new packages then add lines
+```bash
+pip freeze > requirements.txt
+```
+
 
 
 
