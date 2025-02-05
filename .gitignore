@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+liveness_model.h5
+test_image.jpg
 /myenv/
 __pycache__/
 *.py[cod]
