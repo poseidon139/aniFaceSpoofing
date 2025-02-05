@@ -14,6 +14,9 @@ If you are adding new packages then add lines
 pip freeze > requirements.txt
 ```
 
+Corresopnding Kaggle link to get the model
+
+[Anti Face spoofing ](https://www.kaggle.com/code/poseidon031/antifacespoofing/)
 
 
 
