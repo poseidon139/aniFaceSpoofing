@@ -3,3 +3,13 @@ This project helps in determining whether a face is actual face or a spoofed one
 
 to run this
 
+```bash
+python3 -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
+```
+
+
+
+
+
